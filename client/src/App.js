@@ -18,7 +18,7 @@ const App = (props) => {
       <div>
         <Route exact path="/" component={MovieList}/>
         <Route path="/movies/" component={Movie} />
-        Replace this Div with your Routes</div>
+      </div>
     </div>
   );
 };
